@@ -1,4 +1,4 @@
-package lec14.ex2;
+package lec12.ex2;
 
 public class Song {
         private String name;

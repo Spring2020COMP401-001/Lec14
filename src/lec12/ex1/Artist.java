@@ -1,4 +1,4 @@
-package lec14.ex1;
+package lec12.ex1;
 
 public class Artist {
         private String name;
