@@ -1,4 +1,4 @@
-package lec12.ex2;
+package lec14.ex2;
 
 import java.util.Iterator;
 import java.util.List;
